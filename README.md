@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi I'm Satyam Rawat 👋
 
-<!--
-**satyamrwt01/satyamrwt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Salesforce Developer | Jaipur, India
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Apex — Triggers, Batch jobs, Async processing
+- Lightning Web Components (LWC) — Custom UI on Salesforce
+- SOQL & SOSL — Salesforce query languages
+- Flow Builder — No-code/low-code automation
+- Salesforce Admin — Objects, Security, Data management, Approval processes
+  
+  
+## Current Goals
+- Pass Salesforce Certified Platform Administrator exam
+- Complete Apex Specialist Superbadge on Trailhead
+- Pass Platform Developer I (PDI) exam
+- Build 3-4 real Salesforce projects on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Featured Projects
+
+- Salesforce-apex-practice | Apex classes, triggers & SOQL exercises | Apex, SOQL |
+- LWC-component-library | Reusable LWC components | LWC, JS, CSS |
+- Salesforce-service-desk-app | End-to-end service desk app | Apex, LWC, Flow |
+
+
+## Certifications & Badges
+- Salesforce Certified Platform Administrator (in progress)
+- Trailhead Ranger rank (in progress)
+
+
+## Connect with Me
+- LinkedIn - https://www.linkedin.com/in/satyamrawat01
+- Trailhead - https://www.salesforce.com/trailblazer/satyamrawat01
