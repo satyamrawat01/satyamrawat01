@@ -19,9 +19,10 @@ Aspiring Salesforce Developer | Jaipur, India
 
 ## Featured Projects
 
-- Salesforce-apex-practice | Apex classes, triggers & SOQL exercises | Apex, SOQL |
-- LWC-component-library | Reusable LWC components | LWC, JS, CSS |
-- Salesforce-service-desk-app | End-to-end service desk app | Apex, LWC, Flow |
+- Real Estate CRM | Real Estate | In progress | Admin · Flows . security . data modelling |
+- HR Recruitment Tracker | HR | Planned | Admin · Flows |
+- E-commerce Order Management | Retail | Planned | Admin · Apex · LWC |
+- Loan Management System | Banking | 📅 Planned | Apex · LWC · REST API |
 
 
 ## Certifications & Badges
