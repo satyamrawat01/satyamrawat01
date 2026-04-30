@@ -3,12 +3,12 @@ Hi I'm Satyam Rawat
 Aspiring Salesforce Developer | Jaipur, India
 
 ## What I'm Learning
+- Salesforce Admin — Objects, Security, Data management, Approval processes (Done)
+- Flow Builder — No-code/low-code automation (Done)
 - Apex — Triggers, Batch jobs, Async processing
 - Lightning Web Components (LWC) — Custom UI on Salesforce
 - SOQL & SOSL — Salesforce query languages
-- Flow Builder — No-code/low-code automation
-- Salesforce Admin — Objects, Security, Data management, Approval processes
-  
+
   
 ## Current Goals
 - Pass Salesforce Certified Platform Administrator exam
