@@ -1,4 +1,4 @@
-Hi I'm Satyam Rawat 👋
+Hi I'm Satyam Rawat 
 
 Aspiring Salesforce Developer | Jaipur, India
 
@@ -20,8 +20,8 @@ Aspiring Salesforce Developer | Jaipur, India
 ## Featured Projects
 
 - Real Estate CRM | Real Estate | In progress | Admin · Flows . security . data modelling |
-- HR Recruitment Tracker | HR | Planned | Admin · Flows |
-- E-commerce Order Management | Retail | Planned | Admin · Apex · LWC |
+- HR Recruitment Tracker | HR | 📅 Planned | Admin · Flows |
+- E-commerce Order Management | Retail | 📅 Planned | Admin · Apex · LWC |
 - Loan Management System | Banking | 📅 Planned | Apex · LWC · REST API |
 
 
